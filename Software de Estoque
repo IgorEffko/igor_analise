@@ -1,1 +1,9 @@
 https://docs.google.com/document/d/1pSVCQLuiY9AD8ipxUoG2GKCTXUotRx9jKuXJdz-qDfI/edit?usp=sharing
+
+Software de Estoque 25/03/31
+(Igor, Emanueli, Kesita e Fabricío) 
+
+O software de estoque tem o objetivo de auxiliar o usuário a checar itens disponíveis, quantidades, marcas e preços de seu estoque.O mesmo deve ter um sistema de entrada e saída de itens, registro de preços e marcas, baixa de produtos e um aviso para comprar mais quando o estoque estiver com poucos itens.
+O funcionário irá entrar no sistema e escolher o item que deseja e ver se ele está disponível, caso não esteja o sistema irá indicar marcas, preços e produtos semelhantes ao item escolhido.
+Ao consultar o sistema o funcionário irá deparar com uma interface com barra de pesquisa podendo procurar o'que quer e precisa dentro de seu estoque, logo após pesquisar o item desejado o nosso sistema irá mostrar a quantidade disponível o preço e sua marca quando for retirado algo do estoque o funcionário poderá dar baixa de forma manual já a entrada será feita no momento em que o produto for cadastrado no mesmo momento o funcionário poderá colocar o preço do item como desejar e adicionar uma quantidade mínima de produtos para o aviso de itens faltando, por exemplo ao chegar a 10 itens, o lembrete irá avisar para reabastecer para evitar a perda da venda por falta de produto no estoque.
+
